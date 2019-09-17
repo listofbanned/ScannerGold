@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/3-scanning.unity
+  isLoaded: 1
+  isActive: 1

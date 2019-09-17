@@ -1,2 +1,3 @@
 # ScannerGold
-Fake odor meter
+Fake odor meter made in Unity3D
+
